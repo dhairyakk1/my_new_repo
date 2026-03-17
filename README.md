@@ -1,2 +1,1 @@
-hello world, this is my readme file
-potato tomato
+i am in ma-104 lab right now
