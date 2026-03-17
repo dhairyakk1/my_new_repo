@@ -1,1 +1,1 @@
-checking git fetch command now
+readme file created and updated 
