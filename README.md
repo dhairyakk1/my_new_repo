@@ -1,1 +1,1 @@
-i am in ma-104 lab right now
+checking git fetch command now
